@@ -20,7 +20,7 @@ This project integrates:
 
 ## 🚀 Live Demo
 
-👉 (Add your Streamlit deployment link here after deployment)
+👉 https://ai-focus-appuctivity-predictor.streamlit.app/
 
 ---
 
