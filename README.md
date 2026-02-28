@@ -102,8 +102,14 @@ AI-Focus-Productivity-Predictor/
 │   └── scaler.pkl
 │
 └── screenshots/
-    ├── input.png
-    └── output.png
+    ├── input1.png
+    ├── input2.png
+    ├── input3.png
+    ├── input4.png
+    ├── output1.png
+    ├── output2.png
+    ├── output3.png
+    └── output4.png
 ```
 
 ---
