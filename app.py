@@ -48,7 +48,7 @@ hr {
 # --------------------------------------------------
 # LOAD MODEL
 # --------------------------------------------------
-rf_model = joblib.load("model/random_forest_model.pkl")
+rf_model = joblib.load("model/random_forest_model_compressed.pkl")
 scaler = joblib.load("model/scaler.pkl")
 
 # --------------------------------------------------
@@ -220,4 +220,5 @@ if city2 and api_key:
         st.metric(f"{city2} Impact", f"{rf_pred2:.1f}%")
 
 st.markdown("---")
+
 st.caption("⚠ Educational ML simulation. Not medical advice.")
